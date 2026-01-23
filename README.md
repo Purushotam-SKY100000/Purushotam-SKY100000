@@ -1,4 +1,4 @@
-![logo](https://github.com/Purushotam-SKY100000/Purushotam-SKY100000/blob/main/Your%20paragraph%20text%20(1).png)
+![logo](https://github.com/Purushotam-SKY100000/Purushotam-SKY100000/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
