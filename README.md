@@ -1,7 +1,7 @@
 ![logo](https://github.com/Purushotam-SKY100000/Purushotam-SKY100000/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Python • SQL • Power BI | Excel </h3>
+<h3 align="center">🚀 Aspiring Data Analyst from India | Python • SQL • Power BI • Excel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purushotam-sky100000&label=Profile%20views&color=0e75b6&style=flat" alt="purushotam-sky100000" /> </p>
 
@@ -34,4 +34,3 @@
 <div align="center">
    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
- 
