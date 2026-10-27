@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purushotam-sky100000&label=Profile%20views&color=0e75b6&style=flat" alt="purushotam-sky100000" /> </p>
 
-- 🌱 "Currently focusing on: Advanced SQL, Query Optimization, and Data Analytics with Python."
+- 🌱 Currently focusing on: **Advanced SQL, Query Optimization, and Data Analytics with Python*
 
 - 📫 How to reach me **Purushotam100000@gmail.com**
 
